@@ -1,3 +1,7 @@
+#Scraper from page to page for wiki 
+
+
+
 import proxy
 from bs4 import BeautifulSoup
 from urllib.error import URLError,HTTPError
